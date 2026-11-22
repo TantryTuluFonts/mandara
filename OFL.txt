@@ -2,7 +2,7 @@ Copyright (c) 2021, Prahlad Prasad Tantry (https://github.com/TantryTuluFonts/ma
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
-https://openfontlicense.org
+http://scripts.sil.org/OFL
 
 SIL Open Font License v1.1
 ====================================================
