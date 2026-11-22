@@ -26,6 +26,8 @@ Download the latest build from the [Releases page](https://github.com/TantryTulu
 
 Mandara is key-mapped: it places Tulu lipi glyphs on the Latin keys, so you type with an ordinary keyboard and the font draws the Tulu forms. The specimen above shows what each key produces. Because the text is stored as Latin characters, it only reads as Tulu while Mandara is applied; paste it somewhere with a different font and it will show as plain Latin letters. Keep that in mind for search, sharing and archiving.
 
+Mandara follows the **AccTantra** typing standard, the shared key map for all the ASCII fonts in the Tantry family. See the [key map](https://github.com/PrahladTantry/AccTantra/blob/main/docs/KEYMAP.md), the [conjunct reference](https://github.com/PrahladTantry/AccTantra/blob/main/docs/CONJUNCTS.md) and the [typing examples](https://github.com/PrahladTantry/AccTantra/blob/main/docs/EXAMPLES.md). Try it: type `EAamA nEma narayNay` and Mandara shows *Om namo Narayanaya*.
+
 <p align="center"><img src="images/mandara-logo.jpeg" alt="Mandara logo" width="220"></p>
 
 ## Use on the web
