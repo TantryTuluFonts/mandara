@@ -14,6 +14,10 @@ Mandara is a compact Tulu lipi font with a bold, rounded stroke, as the specimen
 | **License** | [SIL OFL 1.1](OFL.txt) |
 | **Family** | [Tantry Tulu Font Foundry](https://github.com/TantryTuluFonts) |
 
+## The standard
+
+[the standard for writing Tuḷu](https://tantrytulufonts.github.io/tulu-script-standard/) is set out in [*Tuḷu Varṇāmr̥ta*](https://tantrytulufonts.github.io/tulu-varnamruta/). [Mallige](https://github.com/TantryTuluFonts/mallige) and [Mallige Unicode](https://github.com/TantryTuluFonts/Mallige_unicode) are its faithful representations. The same work is being extended to Mandara, and it is being ported to Unicode as well.
+
 ## Get the font
 
 Download the latest build from the [Releases page](https://github.com/TantryTuluFonts/mandara/releases/latest), or take `fonts/XmMdar(mandara)v1(RL).ttf` straight from this repository.
